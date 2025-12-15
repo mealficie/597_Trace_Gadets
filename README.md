@@ -37,7 +37,7 @@ This project implements a **Small Language Model (SLM)** based approach to detec
 
 2.  **Download Juliet Test Suite**:
     *   This project uses the specific **CWE-121** test cases.
-    *   Clone or download: [NIST Juliet Test Suite v1.3 for C/C++](https://samate.nist.gov/SRD/testsuite.php)
+    *   Clone or download: [NIST Juliet Test Suite v1.3 for C/C++](https://github.com/arichardson/juliet-test-suite-c.git)
     *   Place it in: `juliet-test-suite-c/`
 
 3.  **Install Python Dependencies**:
